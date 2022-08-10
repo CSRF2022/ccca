@@ -1,5 +1,9 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-52037602-5/welcome-page)](https://github.com/igrigorik/ga-beacon)
 
+**Repository forked from https://github.com/duplisea/ccca**
+
+**Reference: Duplisea, D. E., Roux, M.-J., Hunter, K. L., & Rice, J. 2021. Fish harvesting advice under climate change: A risk-equivalent empirical approach. PLOS ONE, 16(2), e0239503. https://doi.org/10.1371/journal.pone.0239503**
+
 CCCA model background
 ---------------------
 
